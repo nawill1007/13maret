@@ -112,6 +112,16 @@ document.addEventListener("DOMContentLoaded", function () {
       description: "",
       image: "img/image copy 12.png",
     },
+    {
+      title: "",
+      description: "",
+      image: "img/image copy 13.png",
+    },
+    {
+      title: "",
+      description: "",
+      image: "img/image copy 14.png",
+    },
   ];
 
   // Populate portfolio grid
@@ -367,3 +377,4 @@ audio
   .catch(function (error) {
     console.log("Autoplay diblokir oleh browser.");
   });
+
